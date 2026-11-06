@@ -13,6 +13,14 @@ Nothing about the project may live only in a session, a Claude account or the cl
   documenting them here. Required env vars go in `.env.example` (names and descriptions, never real values).
 - Real secrets never get committed. List them in `.env.example` and say in `docs/STATUS.md` where to get them.
 
+## Autonomy
+
+The owner has given standing permission to act without asking: run any command, install packages,
+edit or create any file, commit and push to `main`, and make reasonable technical choices
+(record them in `docs/DECISIONS.md`). Just do the work and report what was done.
+Only stop to ask before actions that destroy work and can't be undone, such as force-pushing,
+rewriting git history, deleting the repo or its branches, or wiping data.
+
 ## Start of every session
 
 1. Read `docs/STATUS.md`: where things stand and what's next.
