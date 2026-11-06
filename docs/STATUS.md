@@ -12,7 +12,10 @@ Focus: Listening + Reading. Content must be official (Paragon) and obtained legi
 the free official practice tests, or tests/study material the owner buys.
 Scraped or pirated dumps are out of scope (Claude won't search for or process them).
 
-1. **Pilot:** start with the free official tests on celpip.ca. While taking each one, the owner keeps a
+1. **Pilot:** start with the free official tests on celpip.ca. There are 2 General + 2 General LS tests,
+   but per the owner the LS ones reuse the same mock tests as General, so the free supply is
+   **2 Listening sets + 2 Reading sets**. Paid packs are ~$35 for 2 tests. Owner's effort should be
+   minimal: just a screen recording with audio, through the answer-review screen. While taking each one, the owner keeps a
    private copy: screen recording with audio, plus screenshots of questions and the answer-review screen.
    This goes in the owner's private storage, never in this repo.
 2. **Importer:** scripts turn those captures into structured JSON per test: audio clips cut per part
